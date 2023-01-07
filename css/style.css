@@ -1,0 +1,4 @@
+.navbar-brand a:hover {
+    color: #ffe; /* Цвет текста активного пункта */
+    background-color: #5488af; /* Цвет фона активного пункта */
+  }
